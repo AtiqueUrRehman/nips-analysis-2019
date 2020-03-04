@@ -1,4 +1,4 @@
-# nips-analysis-2019
+# NeurIPS-19 Analysis
 Analysis for the talks and papers presented in Neural Information Processing Systems
 
 ### Setup (Linux)
